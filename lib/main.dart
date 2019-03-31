@@ -1,5 +1,6 @@
 import 'package:body_fit/DateUtils.dart';
 import 'package:body_fit/RadialProgress.dart';
+import 'package:body_fit/ShowGraph.dart';
 import 'package:body_fit/blocs/HomePageBloc.dart';
 import 'package:body_fit/themes/Colors.dart';
 import 'package:body_fit/TopBar.dart';
